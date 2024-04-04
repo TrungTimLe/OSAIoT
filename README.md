@@ -21,14 +21,14 @@ Installing Firmware to ESP32
 	-Select .ZIP from "libraries" folder
 	-Repeat for all libraries in the "libraries" folder
 
-   	ArduinoHtppClient (0.5.0)
-  	NTPClient(3.2.1)
-  	AduinoJson(6.21.4)
-  	AutoConnect(1.4.2)
-  	PageBuilder(1.5.6)
-  	PubSubCleint(2.8)
-  	TPBubSupClient(2.9.1)
-  	Thingsboard(0.10.2)
+   	ArduinoHtppClient (0.5.0) -> 0.6.0
+  	NTPClient(3.2.1) -> 3.2.1
+  	AduinoJson(6.21.4) -> 7.0.4
+  	AutoConnect(1.4.2) -> 1.4.2
+  	PageBuilder(1.5.6) -> 1.5.6
+  	PubSubClient(2.8) -> 2.8
+  	TPBubSupClient(2.9.1) -> 2.9.3
+  	Thingsboard(0.10.2) -> 0.12.2
   
 - 3.) Upload sketch to ESP32
 	-Tools -> Board -> ESP32 dev module
